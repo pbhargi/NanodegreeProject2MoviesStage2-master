@@ -1,0 +1,29 @@
+<resources>
+
+    <string name="app_name">Popular Movies</string>
+
+    <!-- Detail Activity-->
+    <string name="movie_poster_label">Movie Poster</string>
+    <string name="movie_overview_label">Plot Synopsis:</string>
+    <string name="original_title_label">Original Title:</string>
+    <string name="user_rating_label">User Rating:</string>
+    <string name="release_date_label">Release Date:</string>
+
+    <string name="action_popular">Popular</string>
+    <string name="action_top_rated">Top Rated</string>
+    <string name="action_favorites">Favorites</string>
+
+    <string name="trailer_label">Trailers:</string>
+    <string name="reviews_label">Reviews:</string>
+    <string name="favorite_label">Favorite</string>
+    <string name="mark_as_favorite">Mark as Favorite</string>
+    <string name="remove_from_favorites">Remove from Favorites</string>
+    <!-- Error messages-->
+    <string name="detail_error_message">Movie data not available</string>
+    <string name="video_view_failed">Video could not be played</string>
+
+    <string name="error_message">
+        An error has occurred. Please try again by clicking one of the menu options.
+    </string>
+
+</resources>
