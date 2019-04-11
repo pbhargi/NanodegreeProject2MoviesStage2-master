@@ -57,7 +57,7 @@ public final class NetworkUtils {
 
     final static String API_KEY_PARAM = "api_key";
     //REMOVE THIS BEFORE SUBMISSION
-    final static String API_KEY_PARAM_VALUE = "190e6cfbb906244152cfc643f3bb8217";
+    final static String API_KEY_PARAM_VALUE = "insertyourapikeyhere";
     final static String LANGUAGE_PARAM = "language";
     final static String LANGUAGE_PARAM_EN_US_VALUE = "en-US";
     final static String PAGE_PARAM = "page";
